@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text("App Body  "),
+                Text("App Heavy  "),
                 Text("App Body  "),
                 Text("App Body  "),
                 Text("App Body  "),
